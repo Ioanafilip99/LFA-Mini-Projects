@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553870359 source:d:\facultate\an 1\sem 2\lfa\lfa-proiect1\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1559317599 source:d:\facultate\an 1\sem 2\lfa\cyk\main.cpp
+	<iostream>
+	<utility>
+	<vector>
+	<fstream>
+	<map>
+	<string>
+
